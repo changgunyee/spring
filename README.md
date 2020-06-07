@@ -1,1 +1,0 @@
-Spring 프레임워크를 이용한 Facebook 클론 코딩 연습 용 repository입니다.
